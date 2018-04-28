@@ -47,7 +47,7 @@
           </ul>
         </article>
 	 <footer>
-      <p> Name, Copyright &copy; 2018</p>
+      
     </footer>
 </body>
 
