@@ -46,9 +46,7 @@
             </li>
           </ul>
         </article>
-	 <footer>
-      
-    </footer>
+	 
 </body>
 
 </html>
