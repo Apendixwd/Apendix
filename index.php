@@ -24,6 +24,7 @@
             <li class="current"><a href="index.php">Home</a></li>
             <li><a href="Produkte.php">Angebote</a></li>
 			<li><a href="about.php">Über uns</a></li>
+			<li><a href="Kontakt.php">Kontakt</a></li> 
           </ul>
         </nav>
       </div>
