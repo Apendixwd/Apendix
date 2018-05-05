@@ -23,7 +23,8 @@
           <ul>
             <li><a href="index.php">Home</a></li>
             <li><a href="Produkte.php">Angebote</a></li>
-	    <li  class="current"><a href="about.php">&Uuml;ber uns</a></li>
+	        <li  class="current"><a href="about.php">&Uuml;ber uns</a></li>
+			<li><a href="Kontakt.php">Kontakt</a></li> 
           </ul>
         </nav>
       </div>
